@@ -1,1 +1,1 @@
-This is (YourUsername)’s first git project!
+This is Alfred’s first git project!
